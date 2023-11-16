@@ -37,5 +37,5 @@ I was introduced to this book from a friend who let me borrow his copy of *Atomi
 
 I love learning about inspiring people, and I’m always looking for quotes that simplify their experiences in a meaningful manner. The 5AM Club was riddled with great quotes, even starting each chapter with one. On that same note, I’ll end with a quote of my own, 
 
-> “Find meaning. Even if you have to force it, even if you have to dig for it, even if you have to create it yourself, you must find meaning. Find it in everything that you do and everything that you see - otherwise 311 pages will be a serious waste of time.” - Joe Malatesta
+> “Find meaning. Even if you have to force it, even if you have to dig for it, even if you have to create it yourself, you must find meaning. Find it in everything that you do and everything that you see - otherwise 311 pages will be a serious waste of time.” - LUV NFT
 >

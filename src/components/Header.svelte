@@ -15,7 +15,7 @@
 	class=" hidden md:flex items-center justify-between text-2xl xl:mx-36 lg:mx-10 md:mx-5"
 >
 	<!-- Name -->
-	<a href="https://y.luvnft.com">
+	<a href="/">
 		<svg
 			width="100"
 			viewBox="0 0 2400 2400"
@@ -47,19 +47,19 @@
 	<!-- Main Links -->
 	<div class="flex items-center">
 		<a
-			class="mx-2 hover:border-b-2 border-spacing-3 border-indigo-600 transition duration-100"
+			class="mx-2 hover:border-b-2 border-spacing-3 border-indigo-500 transition duration-100"
 			href="/about">About</a
 		>
 		<a
-			class="mx-2 hover:border-b-2 border-spacing-3 border-indigo-600 transition duration-100"
-			href="/#blog">News</a
+			class="mx-2 hover:border-b-2 border-spacing-3 border-indigo-500 transition duration-100"
+			href="/#blog">Blog</a
 		>
 		<a
-			class="mx-2 hover:border-b-2 border-spacing-3 border-indigo-600 transition-all duration-100"
-			href="/#projects">Portfolio</a
+			class="mx-2 hover:border-b-2 border-spacing-3 border-indigo-500 transition-all duration-100"
+			href="/#projects">Projects</a
 		>
 		<a
-			class="ml-2 hover:border-b-2 border-spacing-3 border-indigo-600 transition-all duration-100"
+			class="ml-2 hover:border-b-2 border-spacing-3 border-indigo-500 transition-all duration-100"
 			href="/#contact">Contact</a
 		>
 	</div>
@@ -114,8 +114,8 @@
 		<div class="wrapper" transition:slide>
 			<div class="mx-2 mb-4 flex flex-col text-2xl">
 				<a class="underline underline-offset-2" href="/about">About</a>
-				<a class="underline underline-offset-2" href="/#blog">News</a>
-				<a class="underline underline-offset-2" href="/#projects">Portfolio</a>
+				<a class="underline underline-offset-2" href="/#blog">Blog</a>
+				<a class="underline underline-offset-2" href="/#projects">Projects</a>
 				<a class="underline underline-offset-2" href="/#contact">Contact</a>
 			</div>
 		</div>
