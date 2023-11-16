@@ -86,9 +86,9 @@
 </script>
 
 <SectionHeader
-	title={"Projects"}
-	subtitle={"blood, sweat, and carpal tunnel has lead me to this"}
-/>
+	title={"Portfolio"}
+	subtitle={"We're investing in the future of business that works for everyone."}
+	/>
 
 <div class="lg:flex flex-col hidden justify-center items-center py-3">
 	{#if projects[active]}

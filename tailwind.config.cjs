@@ -16,7 +16,7 @@ module.exports = {
 						"blockquote p:first-of-type::before": { content: "none" },
 						"blockquote p:first-of-type::after": { content: "none" },
 						pre: {
-							backgroundColor: "#171717",
+							backgroundColor: "#000000",
 							color: "#ffffff",
 						},
 						code: {

@@ -49,7 +49,7 @@
 		<div transition:slide>
 			<p class="lg:text-lg opacity-90 font-light font-sans">{description}</p>
 
-			<a href={url} class="flex items-center lg:text-xl text-lg font-semibold py-2 text-indigo-400 w-fit"
+			<a href={url} class="flex items-center lg:text-xl text-lg font-semibold py-2 text-indigo-600 w-fit"
             on:mouseenter={() => {urlHover = true }}
             on:mouseleave={() => {urlHover = false }}>Read more
                 <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" fill="#818cf8" clip-rule="evenodd" class="{urlHover ? "mx-4" : "mx-1"} transition-all duration-300"><path d="M21.883 12l-7.527 6.235.644.765 9-7.521-9-7.479-.645.764 7.529 6.236h-21.884v1h21.883z"/></svg>

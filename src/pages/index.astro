@@ -16,8 +16,8 @@ const techPosts = (
 		new Date(b.frontmatter.pubDate).valueOf() -
 		new Date(a.frontmatter.pubDate).valueOf()
 );
-const improvementPosts = (
-	await Astro.glob("../pages/blog/improvement/*.{md,mdx}")
+const spiritualityPosts = (
+	await Astro.glob("../pages/blog/spirituality/*.{md,mdx}")
 ).sort(
 	(a, b) =>
 		new Date(b.frontmatter.pubDate).valueOf() -
@@ -34,8 +34,8 @@ nice gradient --><!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
 	<head>
 		<BaseHead
-			title="Joe Malatesta"
-			description="Personal website for Joe Malatesta, a software developer focused on new tech and self improvement"
+			title="LUV NFT"
+			description="The intersection of advanced technology and spirituality."
 		/>
 	</head>
 	<body>
@@ -50,7 +50,7 @@ nice gradient --><!DOCTYPE html>
 						class="relative flex flex-col items-center justify-center p-2 py-4 px-5"
 					>
 						<h1
-							class="meow poppins flex flex-col bg-gradient-to-r from-slate-200 to-indigo-400 bg-clip-text p-2 text-5xl font-semibold text-transparent md:block lg:p-5 lg:text-7xl"
+							class="meow poppins flex flex-col bg-gradient-to-r from-slate-200 to-indigo-600 bg-clip-text p-2 text-5xl font-semibold text-transparent md:block lg:p-5 lg:text-7xl"
 						>
 							Insipired by <span class="py-2"><TypeWriter client:load /></span>
 						</h1>
@@ -65,8 +65,8 @@ nice gradient --><!DOCTYPE html>
 			<section id="blog" class="py-9 lg:px-16">
 				<Blog
 					client:load
-					postTypes={["Improvement", "Technology"]}
-					posts={[improvementPosts, techPosts]}
+					postTypes={["spirituality", "Technology"]}
+					posts={[spiritualityPosts, techPosts]}
 					quotes={quotes}
 				/>
 			</section>

@@ -102,14 +102,14 @@
 					<p>{title}</p>
 				</div>
 				<div
-					class="absolute inset-0 translate-y-6  bg-indigo-400 rounded-xl text-transparent bg-clip-text  {subscribeAnimation
+					class="absolute inset-0 translate-y-6  bg-indigo-600 rounded-xl text-transparent bg-clip-text  {subscribeAnimation
 						? 'lg:translate-y-40 translate-y-[6rem] bg-opacity-100'
 						: 'bg-opacity-40 translate-y-[1rem]'} transition-all duration-700  -z-20"
 				>
 					<p>{title}</p>
 				</div>
 				<div
-					class="absolute inset-0 translate-y-6  bg-indigo-400 rounded-xl text-transparent bg-clip-text {subscribeAnimation
+					class="absolute inset-0 translate-y-6  bg-indigo-600 rounded-xl text-transparent bg-clip-text {subscribeAnimation
 						? 'lg:translate-y-[12.5rem] translate-y-[7.5rem] bg-opacity-100'
 						: 'bg-opacity-0'} transition-all duration-700  -z-20"
 				>
