@@ -28,8 +28,8 @@
 </head> -->
 <main>
 	<SectionHeader
-		title={"Blog"}
-		subtitle={"A history of my internal dialogue, trying to answer the questions I ask myself"}
+		title={"News"}
+		subtitle={"Stay updated with the latest Web5 news, education and spirituality self improvement."}
 	/>
 
 	<!-- BLOG AND OTHER CONTENT -->

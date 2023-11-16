@@ -10,14 +10,14 @@
 	const projects = [
 		{
 			id: 0,
-			title: "WakeMate",
-			tech: "Svelte, Typescript, Stripe, Mongo, Twilio",
+			title: "Live",
+			tech: "Live, LUV NFT, $LUV",
 			description:
-				"Subscription based service focused on waking users up and keeping them motivated.",
-			url: "https://wakemate.joemmalatesta.com",
+				"Stream live on blockchain and tokenize the highlights as a LUV NFT to monetize your content. ",
+			url: "https://live.luvnft.com",
 			buttonText: "Visit Site",
 			image: "projects/wakeMate.webp",
-			logos: ["svelte.png", "mongo.png", "twilio.svg", "stripe.png"],
+			logos: ["recorder.png", "matic.png"],
 			colors: ["#b8a6c1", "#8fa770"],
 		},
 		// {
@@ -86,8 +86,8 @@
 </script>
 
 <SectionHeader
-	title={"Portfolio"}
-	subtitle={"W"}
+	title={"WEB5"}
+	subtitle={"Tell us how we can improve these websites to receive $LUV."}
 />
 
 <div class="lg:flex flex-col hidden justify-center items-center py-3">
