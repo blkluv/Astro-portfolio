@@ -10,14 +10,14 @@
 	const projects = [
 		{
 			id: 0,
-			title: "Live",
-			tech: "Live, LUV NFT, $LUV",
+			title: "WakeMate",
+			tech: "Svelte, Typescript, Stripe, Mongo, Twilio",
 			description:
-				"Stream live on blockchain and tokenize the highlights as a LUV NFT to monetize your content. ",
-			url: "https://live.luvnft.com",
+				"Subscription based service focused on waking users up and keeping them motivated.",
+			url: "https://wakemate.joemmalatesta.com",
 			buttonText: "Visit Site",
 			image: "projects/wakeMate.webp",
-			logos: ["recorder.png", "matic.png"],
+			logos: ["svelte.png", "mongo.png", "twilio.svg", "stripe.png"],
 			colors: ["#b8a6c1", "#8fa770"],
 		},
 		// {
@@ -34,14 +34,14 @@
 		// },
 		{
 			id: 2,
-			title: 'Discord "Yvy" Bot',
-			tech: "Python, REST APIs, MongoDB",
+			title: 'Paste',
+			tech: "IPFS",
 			description:
-				"Commands return concise information regarding osu! plays, and players.",
-			url: "https://github.com/joemmalatesta/yvy-discord-bot",
+				"A decentralized service for sharing code snippets, notes, and media.",
+			url: "https://paste.luvnft.com/",
 			buttonText: "Learn more",
 			image: "projects/yvy-bot.webp",
-			logos: ["python.png", "pi.png", "mongo.png", "osu.png"],
+			logos: ["paste.png"],
 			colors: ["#33333a", "#b4ac9c", "#33387d"],
 		},
 		// {
@@ -86,8 +86,8 @@
 </script>
 
 <SectionHeader
-	title={"WEB5"}
-	subtitle={"Tell us how we can improve these websites to receive $LUV."}
+	title={"Portfolio"}
+	subtitle={"W"}
 />
 
 <div class="lg:flex flex-col hidden justify-center items-center py-3">
