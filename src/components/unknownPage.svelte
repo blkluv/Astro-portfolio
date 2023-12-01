@@ -1,5 +1,15 @@
 <script>
-	// Your existing script remains unchanged
+	let windowHeight = 0;
+	let windowWidth = 0;
+  
+	// This code will run only on the client-side
+	import { onMount } from 'svelte';
+  
+	onMount(() => {
+	  // Accessing window properties after the component has mounted
+	  windowHeight = window.innerHeight;
+	  windowWidth = window.innerWidth;
+	});
   </script>
   
   <body class="h-screen w-screen">
@@ -21,7 +31,7 @@
 		height="2400.000000pt"
 		viewBox="0 0 2400.000000 2400.000000"
 		preserveAspectRatio="xMidYMid meet"
-		style="position: absolute; left: {xPosition}px; top: {yPosition}px"
+		style="position: absolute; left: {windowWidth / 2}px; top: {windowHeight / 2}px"
 	  >
 		<style>
 		  @import 'https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap';
@@ -32,14 +42,15 @@
 	  </svg>
 	</a>
   </body>
-
-<svelte:window bind:innerHeight={windowHeight} bind:innerWidth={windowWidth} />
-
-<style>
+  
+  <svelte:window bind:innerHeight={windowHeight} bind:innerWidth={windowWidth} />
+  
+  <style>
 	/* Interesting, actually. 404 Pages automatically wrapped inside of a body tag. I suppose that makes sense, though... */
 	/* Leaving that comment there but damn what a stupid thing to say  */
 	/* Actually no I think the comment was fine because I was confused that it didn't take the websites general body style, but overwrote it */
 	body {
-		@apply m-0 bg-[#222222] p-0;
+	  @apply m-0 bg-[#222222] p-0;
 	}
-</style>
+  </style>
+  
