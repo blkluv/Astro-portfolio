@@ -10,14 +10,14 @@
 	const projects = [
 		{
 			id: 0,
-			title: "WakeMate",
-			tech: "Svelte, Typescript, Stripe, Mongo, Twilio",
+			title: "Live",
+			tech: "Livepeer, Polygon blockchain",
 			description:
-				"Subscription based service focused on waking users up and keeping them motivated.",
-			url: "https://wakemate.joemmalatesta.com",
+			"Stream live on blockchain and we will convert it to a LUV NFT as an Arvrtise <a href='https://ateam.arvrtise.com'>A-Team</a> service.",
+			url: "https://live.luvnft.com",
 			buttonText: "Visit Site",
-			image: "projects/wakeMate.webp",
-			logos: ["svelte.png", "mongo.png", "twilio.svg", "stripe.png"],
+			image: "projects/live-luvnft.webp",
+			logos: ["live.png", "polygon.png",],
 			colors: ["#b8a6c1", "#8fa770"],
 		},
 		// {
@@ -40,44 +40,44 @@
 				"A decentralized service for sharing code snippets, notes, and media.",
 			url: "https://paste.luvnft.com/",
 			buttonText: "Learn more",
-			image: "projects/yvy-bot.webp",
+			image: "projects/paste-luvnft.webp",
 			logos: ["paste.png"],
 			colors: ["#33333a", "#b4ac9c", "#33387d"],
 		},
-		// {
-		// 	id: 3,
-		// 	title: "CapChart",
-		// 	tech: "Javascript, Chartjs, Bootstrap",
-		// 	description:
-		// 		"Captcha completed by correctly identifying parts of a linear graph",
-		// 	url: "https://joemmalatesta.github.io/CapChart/",
-		// 	buttonText: "Visit Site",
-		// 	image: "projects/capchart.webp",
-		// 	logos: ["js.png", "bootstrap.png", "github.svg", "chart.png"],
-		// 	colors: ["#e89850", "#c8bbde"],
-		// },
+		{
+		 	id: 3,
+		 	title: "TIP",
+		 	tech: "Solana blockchain",
+		 	description:
+		 		"Send a $SOL tip with a link to anyone in the world even if they don't own crypto.",
+		 	url: "https://tip.luvnft.com",
+		 	buttonText: "Visit Site",
+		 	image: "projects/tip-luvnft.webp",
+		 	logos: ["solana.png"],
+		 	colors: ["#e89850", "#c8bbde"],
+		 },
 		{
 			id: 4,
-			title: "Scattergories List Generator",
-			tech: "Svelte, Tailwind, Vercel",
+			title: "Note",
+			tech: "IPFS",
 			description:
-				"A remake of a Scattergories List Generator using SvelteKit and Tailwind",
-			url: "https://scatter.joemmalatesta.com",
+				"Create a decentralized LUV Note to yourself stored in your wallet.",
+			url: "https://note.luvnft.com",
 			buttonText: "Visit Site",
-			image: "projects/ScatterList.webp",
-			logos: ["vercel.png", "ts.png", "svelte.png", "tailwind.png"],
+			image: "projects/note-luvnft.webp",
+			logos: ["notes.png"],
 			colors: ["#e89850", "#c8bbde"],
 		},
 		{
 			id: 4,
-			title: "Groople",
-			tech: "Svelte, Typescript, Tailwind, Vercel, GPT-3.5",
+			title: "HealXYZ",
+			tech: "Discord, Polygon blockchain",
 			description:
-				"My childhood favorite board game, virtualized and judged by AI",
-			url: "https://groople.xyz",
+				"A trending PPV spiritual social media game for adults to Heal X, Y & Z to level up and win crystals and $LUV. ",
+			url: "https://healxyz.com",
 			buttonText: "Visit Site",
-			image: "projects/scattergories.webp",
-			logos: ["vercel.png", "tailwind.png", "svelte.png", "openAI.png"],
+			image: "projects/healxyz.webp",
+			logos: ["luv.png", "polygon.png"],
 			colors: ["#e89850", "#c8bbde"],
 		},
 	];
@@ -87,7 +87,7 @@
 
 <SectionHeader
 	title={"Portfolio"}
-	subtitle={"W"}
+	subtitle={"Upgrade your business to Web5 and place your website on the front page."}
 />
 
 <div class="lg:flex flex-col hidden justify-center items-center py-3">
