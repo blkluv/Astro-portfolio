@@ -47,11 +47,11 @@
 		>
 		<a
 			class="mx-2 hover:border-b-2 border-spacing-3 border-indigo-500 transition duration-100"
-			href="/#blog">Blog</a
+			href="/#blog">News</a
 		>
 		<a
 			class="mx-2 hover:border-b-2 border-spacing-3 border-indigo-500 transition-all duration-100"
-			href="/#projects">Projects</a
+			href="/#projects">Web5</a
 		>
 		<a
 			class="ml-2 hover:border-b-2 border-spacing-3 border-indigo-500 transition-all duration-100"
@@ -104,8 +104,8 @@
 		<div class="wrapper" transition:slide>
 			<div class="mx-2 mb-4 flex flex-col text-2xl">
 				<a class="underline underline-offset-2" href="/about">About</a>
-				<a class="underline underline-offset-2" href="/#blog">Blog</a>
-				<a class="underline underline-offset-2" href="/#projects">Projects</a>
+				<a class="underline underline-offset-2" href="/#blog">News</a>
+				<a class="underline underline-offset-2" href="/#projects">Web5</a>
 				<a class="underline underline-offset-2" href="/#contact">Contact</a>
 			</div>
 		</div>

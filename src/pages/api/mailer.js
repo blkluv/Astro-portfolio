@@ -12,7 +12,7 @@ const transporter = nodemailer.createTransport({
 
 async function emailNewSubscriber(email) {
 	const mailOptions = {
-		from: "joemmalatesta1@gmail.com",
+		from: "info@luvnft.com",
 		to: email,
 		subject: `Subscribed!`,
 		html: `
@@ -87,7 +87,7 @@ async function emailNewSubscriber(email) {
             hey there, thanks for joining me! You'll have a dollar in no time from all this sense I'm bouta give you.
             </p>
             <p class="message small">
-              If you hate me, you can <a class="unsubscribe" href="https://www.joemmalatesta.com/unsubscribe">unsubscribe</a>
+              If you want to go back to Web3, you can <a class="unsubscribe" href="https://y.luvnft.com/unsubscribe">unsubscribe</a>
             </p>
           </div>
         </body>
@@ -113,7 +113,7 @@ async function emailNewSubscriber(email) {
 
 async function emailUnsubscriber(email) {
 	const mailOptions = {
-		from: "joemmalatesta1@gmail.com",
+		from: "info@luvnft.com",
 		to: email,
 		subject: `Unsubscribed`,
 		html: `
@@ -181,10 +181,10 @@ async function emailUnsubscriber(email) {
   <div class="container">
     <h1>Unsubscribed :(</h1>
     <p class="message">
-        Successfully unsubscribed from blog post updates.
+        Successfully unsubscribed from positive news updates.
     </p>
     <p class="message">
-    If you ever wanna come back, you can <a class="subscribe" href="https://joemmalatesta.com/#blog">subscribe again!</a>
+    If you ever wanna come back, you can <a class="subscribe" href="https://y.luvnft.com/#blog">subscribe again!</a>
     </p>
   </div>
 </body>

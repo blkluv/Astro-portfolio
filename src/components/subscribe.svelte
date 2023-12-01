@@ -12,7 +12,7 @@
 	let email = "";
 	let subscribeAnimation = false;
 	let title = "Get Notified";
-	let message = "Stay up to date on new blog posts!";
+	let message = "Stay up to date on positive news!";
 	let hideExtras = false;
 	let showEmailError = false;
 	export let forPost = false;
