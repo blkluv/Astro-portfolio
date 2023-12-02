@@ -37,7 +37,7 @@
 		  @import 'https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap';
 		</style>
 		<g transform="translate(0.000000,2400.000000) scale(0.100000,-0.100000)" fill="#a5b4fc" stroke="none">
-		  <text x="400" y="1200" font-family="Archivo Black, Arial, sans-serif" font-size="500" fill="#a5b4fc">LUV NFT</text>
+		  <text x="400" y="1200" font-family="Archivo Black, Arial, sans-serif" font-size="1000" fill="#a5b4fc">LUV NFT</text>
 		</g>
 	  </svg>
 	</a>
