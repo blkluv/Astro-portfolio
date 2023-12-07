@@ -10,26 +10,26 @@
 	const projects = [
 		{
 			id: 0,
-			title: "Live",
-			tech: "Livepeer, Polygon blockchain",
+			title: "Blog",
+			tech: "Testnet, Near blockchain",
 			description:
-			"Stream live on blockchain and we will convert it to a LUV NFT as an Arvrtise <a href='https://ateam.arvrtise.com'>A-Team</a> service.",
-			url: "https://live.luvnft.com",
+			"Magically Transform Blogs into Smart Contracts, Posts into NFTs - Your Content, Your Blockchain Legacy.",
+			url: "https://blog.luvnft.com",
 			buttonText: "Visit Site",
 			image: "projects/live-luvnft.webp",
-			logos: ["live.png", "polygon.png",],
+			logos: ["near.png",],
 			colors: ["#b8a6c1", "#8fa770"],
 		},
 		 {
 		 	id: 1,
 		 	title: "LUV NFT AI",
-		 	tech: "AI, NFT",
+		 	tech: "Testnet, AI, Near blockchain",
 		 	description:
 		 		"Mint NFTs with AI that can be sold in a marketplace as a Web5 side hustle.",
 		 	url: "https://ai.luvnft.com",
-		 	buttonText: "Learn more",
+		 	buttonText: "Visit Site",
 		 	image: "projects/old-website.webp",
-		 	logos: ["bootstrap.png", "css.png", "html.png", "github.svg"],
+		 	logos: ["near.png"],
 		 	colors: ["#1d1d1d", "#70a1b1"],
 		 },
 		{
@@ -79,6 +79,18 @@
 			image: "projects/healxyz.webp",
 			logos: ["luv.png", "polygon.png"],
 			colors: ["#e89850", "#c8bbde"],
+		},
+		{
+			id: 6,
+			title: "Live",
+			tech: "Livepeer, Polygon blockchain",
+			description:
+			"Stream live on blockchain and we will convert it to a LUV NFT as an Arvrtise <a href='https://ateam.arvrtise.com'>A-Team</a> service.",
+			url: "https://live.luvnft.com",
+			buttonText: "Visit Site",
+			image: "projects/live-luvnft.webp",
+			logos: ["live.png", "polygon.png",],
+			colors: ["#b8a6c1", "#8fa770"],
 		},
 	];
 	let active;
