@@ -1,8 +1,12 @@
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 2400 2400" preserveAspectRatio="xMidYMid meet">
+  <!-- Imported PNG as the logo -->
+  <image x="-40" y="177" width="300" height="300" xlink:href="https://i.ibb.co/6W6Gz8C/LUV-NFT-23-WHITE-512.png" />
+
+  <!-- Your existing text -->
   <style>
     @import 'https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap';
   </style>
-  <g transform="translate(0.000000,2400.000000) scale(0.050000,-0.050000)" fill="#a5b4fc" stroke="none">
-    <text x="200" y="1200" font-family="Archivo Black, Arial, sans-serif" font-size="1000" fill="#a5b4fc">LUV NFT</text>
+  <g transform="translate(0.000000,2400.000000) scale(0.05,-0.05)" fill="#a5b4fc" stroke="none">
+    <text x="-10" y="177" font-family="Archivo Black, Arial, sans-serif" font-size="1000" fill="#a5b4fc">LUV NFT</text>
   </g>
 </svg>

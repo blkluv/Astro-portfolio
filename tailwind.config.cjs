@@ -20,7 +20,7 @@ module.exports = {
 							color: "#ffffff",
 						},
 						code: {
-							backgroundColor: "#0d1117",
+							backgroundColor: "#000000",
 							color: "#ffffff",
 							fontWeight: "400",
 							"border-radius": "0.25rem",

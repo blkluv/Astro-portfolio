@@ -16,7 +16,7 @@ import svelte from "@astrojs/svelte";
 export default defineConfig({
   output: "server",
   adapter: vercel(),
-  site: 'https://joemmalatesta.com',
+  site: 'https://y.luvnft.com',
   integrations: [mdx(), sitemap(), tailwind(), svelte(), partytown({
     config: {
       forward: ["dataLayer.push"]
