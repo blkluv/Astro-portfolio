@@ -32,7 +32,7 @@
   <style>
 	/* Styling remains the same */
 	body {
-	  @apply m-0 bg-[#222222] p-0;
+	  @apply m-0 bg-[#000000] p-0;
 	}
   </style>
   

@@ -20,18 +20,18 @@
 			logos: ["live.png", "polygon.png",],
 			colors: ["#b8a6c1", "#8fa770"],
 		},
-		// {
-		// 	id: 1,
-		// 	title: "Personal Website V1",
-		// 	tech: "HTML, CSS, Bootstrap, PHP, MySQL",
-		// 	description:
-		// 		"The first iteration of my website! My introduction to front end development.",
-		// 	url: "https://dev.joemmalatesta.com/",
-		// 	buttonText: "Visit Site",
-		// 	image: "projects/old-website.webp",
-		// 	logos: ["bootstrap.png", "css.png", "html.png", "github.svg"],
-		// 	colors: ["#1d1d1d", "#70a1b1"],
-		// },
+		 {
+		 	id: 1,
+		 	title: "LUV NFT AI",
+		 	tech: "AI, NFT",
+		 	description:
+		 		"Mint NFTs with AI that can be sold in a marketplace as a Web5 side hustle.",
+		 	url: "https://ai.luvnft.com",
+		 	buttonText: "Learn more",
+		 	image: "projects/old-website.webp",
+		 	logos: ["bootstrap.png", "css.png", "html.png", "github.svg"],
+		 	colors: ["#1d1d1d", "#70a1b1"],
+		 },
 		{
 			id: 2,
 			title: 'Paste',
@@ -69,7 +69,7 @@
 			colors: ["#e89850", "#c8bbde"],
 		},
 		{
-			id: 4,
+			id: 5,
 			title: "HealXYZ",
 			tech: "Discord, Polygon blockchain",
 			description:
