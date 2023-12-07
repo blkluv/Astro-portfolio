@@ -61,7 +61,7 @@
 <Modal bind:modalType />
 
 <main>
-	<SectionHeader title={"Contact"} subtitle={`We can discuss ${topic}. or anything else`} />
+	<SectionHeader title={"CONTACT"} subtitle={`We can discuss ${topic}. or anything else. info@luvnft.com`} />
 	<div class="flex justify-center">
 		<form method="POST" class="mx-3 flex flex-col md:w-2/3 w-full">
 			<!-- Email and Name -->

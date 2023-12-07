@@ -86,8 +86,8 @@
 </script>
 
 <SectionHeader
-	title={"Portfolio"}
-	subtitle={"Upgrade your business to Web5 and place your website on the front page."}
+	title={"WEB5"}
+	subtitle={"Upgrade your business to Web5 and run an ad with $LUV to place your website on the front page."}
 />
 
 <div class="lg:flex flex-col hidden justify-center items-center py-3">

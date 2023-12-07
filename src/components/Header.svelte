@@ -11,7 +11,7 @@
     <!-- Logo -->
     <div></div> <!-- Spacer to push logo to the right -->
     <a href="https://y.luvnft.com">
-        <svg width="300" height="300" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+        <svg width="333" height="333" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
             <image x="333" y="155" width="200" height="200" xlink:href="https://i.ibb.co/6W6Gz8C/LUV-NFT-23-WHITE-512.png" />
         </svg>
     </a>
@@ -26,9 +26,9 @@
 
 <!-- PHONE SCREEN SIZES -->
 <nav class="md:hidden flex items-center justify-between px-3 text-lg">
-    <a href="/">
+    <a href="https://y.luvnft.com">
         <svg width="70" height="70" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-            <image x="0" y="0" width="70" height="70" xlink:href="https://i.ibb.co/6W6Gz8C/LUV-NFT-23-WHITE-512.png" />
+            <image x="0" y="100" width="200" height="200" xlink:href="https://i.ibb.co/6W6Gz8C/LUV-NFT-23-WHITE-512.png" />
         </svg>
     </a>
     <button class="flex flex-col py-2 pb-2 px-1" on:click={toggleNav}>
