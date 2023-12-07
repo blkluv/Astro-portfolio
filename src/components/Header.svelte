@@ -28,7 +28,7 @@
 <nav class="md:hidden flex items-center justify-between px-3 text-lg">
     <a href="https://y.luvnft.com">
         <svg width="170" height="170" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-            <image x="0" y="155" width="255" height="255" xlink:href="https://i.ibb.co/6W6Gz8C/LUV-NFT-23-WHITE-512.png" />
+            <image x="0" y="122" width="255" height="255" xlink:href="https://i.ibb.co/6W6Gz8C/LUV-NFT-23-WHITE-512.png" />
         </svg>
     </a>
     <button class="flex flex-col py-2 pb-2 px-1" on:click={toggleNav}>
