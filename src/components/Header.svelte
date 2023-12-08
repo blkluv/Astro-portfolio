@@ -12,7 +12,7 @@
     <div></div> <!-- Spacer to push logo to the right -->
     <a href="https://y.luvnft.com">
         <svg width="333" height="333" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-            <image x="333" y="155" width="200" height="200" xlink:href="https://i.ibb.co/6W6Gz8C/LUV-NFT-23-WHITE-512.png" />
+            <image x="355" y="155" width="200" height="200" xlink:href="https://i.ibb.co/6W6Gz8C/LUV-NFT-23-WHITE-512.png" />
         </svg>
     </a>
     <!-- Main Links -->

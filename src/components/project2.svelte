@@ -10,7 +10,7 @@
 	const projects = [
 		{
 			id: 0,
-			title: "Blog",
+			title: "Blog(chain)",
 			tech: "Testnet, Near blockchain",
 			description:
 			"Magically Transform Blogs into Smart Contracts, Posts into NFTs - Your Content, Your Blockchain Legacy.",
@@ -46,7 +46,7 @@
 		},
 		{
 		 	id: 3,
-		 	title: "TIP",
+		 	title: "TIP(Link)",
 		 	tech: "Solana blockchain",
 		 	description:
 		 		"Send a $SOL tip with a link to anyone in the world even if they don't own crypto.",
@@ -58,7 +58,7 @@
 		 },
 		{
 			id: 4,
-			title: "Note",
+			title: "Notes(Dectralized)",
 			tech: "IPFS",
 			description:
 				"Create a decentralized LUV Note to yourself stored in your wallet.",
@@ -82,7 +82,7 @@
 		},
 		{
 			id: 6,
-			title: "Live",
+			title: "Live(Stream)",
 			tech: "Livepeer, Polygon blockchain",
 			description:
 			"Stream live on blockchain and we will convert it to a LUV NFT as an Arvrtise <a href='https://ateam.arvrtise.com'>A-Team</a> service.",

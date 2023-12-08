@@ -1,20 +1,20 @@
 ---
 layout: "../../../layouts/BlogPost.astro" #Constant
-title: "I used Astro wrong..."
-cardDescription: "I strayed far away from Astros intended use, and I'm ashamed. A cautionary tale."
-description: "In this article, the author reflects on their experience building a website using the Astro framework. They admit to not fully utilizing Astro's best features and instead relying heavily on Svelte components, which caused the project not to be recognized as an \"Astro\" project on GitHub. The author also shares their thoughts on their component layout and styling choices, acknowledging that they need to improve their design process for future projects. Despite these challenges, the author enjoyed using Astro as a playground for experimenting with JavaScript, Svelte, and Tailwind, and plans to apply their learnings to upcoming projects, including a Scattergories game for the Svelte hackathon."
-pubDate: "Mar 1, 2023"
+title: "Arvrtise Podcast Hosting Platform"
+cardDescription: "Introducing a Cutting-Edge Approach to Podcast Advertising: Utilizing a Dynamic Website for Daily Automatic Updates."
+description: "In the ever-evolving landscape of podcast promotion, a novel method emerges: a website designed to seamlessly showcase your most recent podcasts on a single, continuously updated page."
+pubDate: "November 26, 2023"
 ---
-A few months ago, I set out to create a blog and actually stick to writing for it. When I made my first personal website earlier this year, it was just because I needed to learn HTML and CSS, and wanted a central place for people to contact me. It was more out of necessity and I just threw a blog in there because that's what people did. The blog. This time around, I wanted to create a content focused website and consistently release quality content. I researched and tested many methods until I landed on a static site generator called Astro (I refuse to use wordpress).
+In the ever-evolving landscape of podcast promotion, a novel method emerges: a website designed to seamlessly showcase your most recent podcasts on a single, continuously updated page.
 
-## What is Astro?
-Astro doesn't lie to you. It knows what it's good at and knows where it falls short, and admits its shortcomings openly. It's a content focused framework that boasts a short learning curve, a good developer experience, and seamless integration with your favorite tools. Astro was the obvious choice for me because it's [fast](https://docs.astro.build/en/concepts/islands/), well suited for SEO, supports integration with Svelte and Tailwind, and, above all else, accepts markdown files as pages in your site. After struggling hard with SvelteKit, trying my luck with Astro was an incredibly easy and calming process.
-### Where I messed up
-After working on the site for a while though, I pretty much ended up with a live playground of [silly](https://www.joemmalatesta.com/404) Svelte components - so much so that my Github repository isn't even marked "Astro" anymore. I inadvertently avoided most of Astro's best features and my initial goal, and I'm not proud of it. The content on my "content focused website" turned into a small column in the middle of the homepage and it's a miracle that you're even reading this.
-## What else went wrong
-#### Code design issues
-I also struggled with deciding when and where to use components. It was an obvious choice to me to create components for doing things like standardizing project cards and blog links, but I wasn't sure what the standard practice was for creating components that were only going to be used once. Many of my components are only used on the landing page and it's justifiable under the separation of logic, but it still doesn't sit right with me. Also, I didn't decide beforehand whether the padding and margins should be managed in the components or in the pages themselves and created a hunt for myself whenever I want to make a small touch up, which made it far less maintainable. 
-#### Design design issues
-Also, from a higher level perspective, I undermined the original purpose of this website and allowed it to stray away from being content focused. My website really just looks like a portfolio website that you send to employers, while the blog section of my website should really be front and center, supplemented by everything else.
-## Where do I go from here
-The process of creating this website was by no means useless. I learned a lot more deeply about server side functions as well as Svelte, Tailwind, and Astro (all of which I will use in the future), and the shortcomings I faced when making this website opened my eyes to focused UI/UX and pre planning design with tools like Figma. Although I'll continue to make small adjustments to this website, I want to move on for a while and come back with more to give - I may end up with two separate sites, even. I'm looking forward to participating in the Svelte hackathon and broadening my knowledge even further with the internship I have lined up for the summer.
+This innovative approach simplifies podcast advertisement by streamlining access to your latest content. Imagine a platform that automatically refreshes daily, ensuring your audience always finds your freshest episodes conveniently compiled in one location.
+
+By harnessing this dynamic website feature, podcasters gain a competitive edge, presenting a user-friendly experience for both loyal followers and potential new listeners. This streamlined access encourages engagement and enhances the visibility of your podcast, all while offering ease of navigation and instant access to the most current episodes.
+
+Such an automated system minimizes the hassle of manual updates, allowing creators to focus on their content while ensuring a consistently engaging presence for their audience.
+
+This groundbreaking technique not only revolutionizes podcast advertising but also establishes a more efficient, user-centric approach to connecting content creators with their audience. Embrace the future of podcast promotion with a platform that prioritizes ease, accessibility, and up-to-the-minute content updates.
+
+Check it out https://joerogan.arvrtise.com/
+
+Contact Arvrtise to create a SEO friendly website for your podcast https://arvrtise.com
