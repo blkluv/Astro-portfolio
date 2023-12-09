@@ -3,7 +3,7 @@ layout: "../../../layouts/BlogPost.astro" #Constant
 title: "What is Spiritual Healing?"
 cardDescription: "Learn the ways spiritual healing benefits everyone."
 description: "When many think of spiritual healing, the mind often turns to energy healing or reiki. However, spiritual healing transcends these practices.."
-pubDate: "March 1, 2023"
+pubDate: "March 19, 2023"
 ---
 When many think of spiritual healing, the mind often turns to energy healing or reiki. However, spiritual healing transcends these practices. It encompasses the profound process of reinstating equilibrium and unity within the body, mind, and spirit. Its potential extends far beyond, addressing trauma, anxiety, depression, and a spectrum of emotional challenges. In this blog post we delve into the essence of spiritual healing and its profound potential in fostering enhanced well-being and joy.
 
