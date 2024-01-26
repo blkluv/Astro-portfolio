@@ -1,6 +1,6 @@
 ---
 layout: "../../../layouts/BlogPost.astro" #Constant
-itle: "Outstanding Debt Recovery on Blockchain with a LUV NFT"
+Title: "Outstanding Debt Recovery on Blockchain with a LUV NFT"
 cardDescription: "Blockchain Tech simplifies many of the overly complex Web2 issues with one being recovering debt."
 description: "LUV NFT created a Final Notice: Outstanding Debt Settlement collection as a blockchain blueprint on how to recover outstanding debt."
 pubDate: "Jan 26, 2024"
