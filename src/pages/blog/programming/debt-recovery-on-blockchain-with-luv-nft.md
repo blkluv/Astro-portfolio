@@ -7,7 +7,7 @@ pubDate: "Jan 26, 2024"
 ---
 
 
-LUV NFT created a [HTML link](https://opensea.io/collection/final-notice-outstanding-debt-settlement) to Final Notice: Outstanding Debt Settlement collection. collection as a blockchain blueprint on how to recover outstanding debt. Leading with an example of a VC company that promised to reimburse the LUV NFT co-founder Hassan “Hahz” Terry for his business travels to Madrid, Spain, to discuss a business investment.
+LUV NFT created a [Debt Recovery LUV NFT ESTATE collection](https://opensea.io/collection/final-notice-outstanding-debt-settlement) to Final Notice: Outstanding Debt Settlement collection as a blockchain blueprint on how to recover outstanding debt. Leading with an example of a VC company that promised to reimburse the LUV NFT co-founder Hassan “Hahz” Terry for his business travels to Madrid, Spain, to discuss a business investment.
 
 
 ### Web2 Debit Collection Problems

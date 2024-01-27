@@ -55,8 +55,8 @@
 					<p class="md:text-sm text-xs my-1">
 						You can always try again, or <span
 							><a
-								href="mailto:joemmalatesta@gmail.com"
-								class="underline underline-offset-2 ">contact me directly</a
+								href="mailto:info@luvnft.com"
+								class="underline underline-offset-2 ">contact us directly</a
 							></span
 						>
 					</p>

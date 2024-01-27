@@ -35,8 +35,6 @@ If you want your son to be a world class soccer player you don’t tell him he�
 
 - Of course he’s shit, it’s his first time playing. But if you tell him that he’s going to not want to continue
 
-It’s hard not to become complacent. This has happened to me in the past (and I talk about it in [this post](https://www.joemmalatesta.com/blog/improvement/overjustification-effect)) with the gym. I was told I was doing well and making improvement by too many people 
-
 People always told me 
 
 people that are told they have nice hair work to keep their hair nice.

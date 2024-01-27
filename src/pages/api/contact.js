@@ -15,8 +15,8 @@ export async function post({ request }) {
 
     const data = await request.json();
     const mailOptions = {
-        from: "joemmalatesta1@gmail.com",
-        to: "joemmalatesta@gmail.com",
+        from: "info@luvnft.com",
+        to: "info@luvnft.com",
         subject: `Website message from ${data.name}`,
         html:`<p>Email:</strong>${data.email}</p>
               <p>Message:</strong>${data.message}</p>`,

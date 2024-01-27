@@ -1,4 +1,4 @@
-# [Visit joemmalatesta.com](https://www.joemmalatesta.com/)
+# [Visit y.luvnft.com](https://www.y.luvnft.com/)
 
 ## Made with Astro, svelte, tailwind, and mongo and deployed using vercel
 
